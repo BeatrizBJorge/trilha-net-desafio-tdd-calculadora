@@ -7,9 +7,9 @@ namespace CalculadoraTestes
 
         public Calculadora ConstruirClasse()
         {
-            string data = "27/05/2024";
+            string data = "30/05/2024";
 
-            Calculadora calc = new("27/05/2024");
+            Calculadora calc = new("30/05/2024");
 
             return calc;               
         }
